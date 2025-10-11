@@ -168,7 +168,9 @@ You are Claude Code, Anthropic's official CLI for Claude. ...
 # Cognitive Hijacking of Large Language Models with Long Context: A Prompt Injection Attack by Forging Internal States
 
 **Author:** Eric-Terminal (A high school sophomore passionate about AI security, independent security researcher)
+
 **Date:** October 11, 2025
+
 **Version:** 2.0
 
 ---
